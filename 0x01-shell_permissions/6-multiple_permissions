@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode +114 hello footer
+chmod +114 hello Footer
